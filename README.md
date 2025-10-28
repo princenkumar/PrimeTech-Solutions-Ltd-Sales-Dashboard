@@ -60,7 +60,8 @@ Data was cleaned in Power Query:
 ---
 
 ## 📸 **Dashboard Preview**
-![Dashboard Screenshot]("D:\=DOCUMENTS=\=EXCEL=\Project File\POWER BI PROJECT")
+![Dashboard Screenshot]("<img width="888" height="498" alt="PrimeTech Solutions Ltd" src="https://github.com/user-attachments/assets/2127241e-a5bf-4993-8318-bc5c68f3e645" />
+")
 
 ---
 
