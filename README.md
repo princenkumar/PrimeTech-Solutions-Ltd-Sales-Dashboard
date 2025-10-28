@@ -60,7 +60,7 @@ Data was cleaned in Power Query:
 ---
 
 ## 📸 **Dashboard Preview**
-![Dashboard Screenshot](PrimeTech%20Solutions%20Ltd.png)
+![Dashboard Screenshot]([PrimeTech%20Solutions%20Ltd.png](https://github.com/princenkumar/PrimeTech-Solutions-Ltd-Sales-Dashboard/blob/main/PrimeTech%20Solutions%20Ltd.png))
 
 ---
 
