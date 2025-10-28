@@ -60,7 +60,7 @@ Data was cleaned in Power Query:
 ---
 
 ## 📸 **Dashboard Preview**
-![Dashboard Screenshot]("D:\=DOCUMENTS=\=EXCEL=\Project File\POWER BI PROJECT\PrimeTech Solutions Ltd.png")
+![Dashboard Screenshot]("D:\=DOCUMENTS=\=EXCEL=\Project File\POWER BI PROJECT")
 
 ---
 
