@@ -66,12 +66,8 @@ Data was cleaned in Power Query:
 
 ## 👤 **Created by**
 **Prince Kumar**  
-_Data Analyst | ITI Fitter | Excel | SQL | Power BI_  
+_Data Analyst  | Excel | SQL | Power BI_  
 📍 Saran, Bihar, India  
-📧 prince@gmail.com  
+📧 princeyadav841412@gmail.com  
 
 ---
-
-### ⭐ *If you like this project, don't forget to give it a star on GitHub!*
-# PrimeTech-Solutions-Ltd-Sales-Dashboard
-A Power BI dashboard analyzing the sales performance of PrimeTech Solutions Ltd, providing insights on regional performance, customer types, and online vs retail sales channels.
