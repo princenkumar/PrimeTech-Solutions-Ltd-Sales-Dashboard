@@ -75,7 +75,7 @@ Data cleaning was performed using Power Query to ensure data accuracy and consis
 
 ## 👨‍💻 **About the Creator**
 **Prince Kumar**  
-_Data Analyst | ITI Fitter | Excel | SQL | Power BI_  
+_Data Analyst | Excel | SQL | Power BI_  
 📍 Saran, Bihar, India  
 📧 princeyadav841412@gmail.com 
 
